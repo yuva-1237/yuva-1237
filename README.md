@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm K.Yuvathilagan</h1>
-<h3 align="center">a passionate developer who loves transforming ideas into beautiful, functional, and meaningful user interfaces! ✨ I enjoy bringing creativity and logic together to build projects that not only work but inspire. 🎯</h3>
+<h3 align="center">A passionate developer who loves transforming ideas into beautiful, functional, and meaningful user interfaces! ✨ I enjoy bringing creativity and logic together to build projects that not only work but inspire. 🎯</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuva-1237" alt="yuva-1237" /></a> </p>
 
