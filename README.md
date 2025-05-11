@@ -1,111 +1,28 @@
-🌟 About Me - Yuva Thilagan
+<h1 align="center">Hi 👋, I'm K.Yuvathilagan</h1>
+<h3 align="center">a passionate developer who loves transforming ideas into beautiful, functional, and meaningful user interfaces! ✨ I enjoy bringing creativity and logic together to build projects that not only work but inspire. 🎯</h3>
 
-Hi, I’m Yuva Thilagan — a passionate developer who loves transforming ideas into beautiful, functional, and meaningful user interfaces! ✨
-I enjoy bringing creativity and logic together to build projects that not only work but inspire. 🎯
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuva-1237" alt="yuva-1237" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://yuvas-portfolio.vercel.app/](https://yuvas-portfolio.vercel.app/)
 
----
+- 📫 How to reach me **yuvathilagan@gmail.com**
 
-🖥️ My First Portfolio Highlights
+- ⚡ Fun fact **I think I'm Funny**
 
-My Website: https://yuvas-portfolio.vercel.app/ 🌐
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/yuva-1237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yuva-1237" height="30" width="40" /></a>
+<a href="https://twitter.com/y_u_v_a_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="y_u_v_a_10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yuvathilagam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvathilagam" height="30" width="40" /></a>
+<a href="https://instagram.com/_y_u_v_a_10_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_y_u_v_a_10_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yuvathilagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yuvathilagan" height="30" width="40" /></a>
+</p>
 
-Built with: HTML, CSS, JavaScript, Nix ⚙️
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-Focus: Designing clean, responsive, and user-friendly interfaces that leave a lasting impression. 🎨
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuva-1237&show_icons=true&locale=en&layout=compact" alt="yuva-1237" /></p>
 
-Motto: "Turn dreams into reality through code and creativity." 💡
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuva-1237&show_icons=true&locale=en" alt="yuva-1237" /></p>
 
-
----
-
-🛠️ My GitHub Journey
-
-GitHub Profile: https://github.com/yuva-1237 🧩
-
-Some projects I'm proud of:
-
-🚀 Yuvas Portfolio – My live professional portfolio.
-
-📚 Basics of Python – Teaching and exploring Python fundamentals.
-
-❓ Python Quiz Game – An interactive way to learn Python concepts.
-
-♻️ Climate Action Project – Raising awareness through technology under SDG 13.
-
-
-
----
-
-🔗 My LinkedIn Journey
-
-LinkedIn Profile: https://www.linkedin.com/in/yuva-thilagan-806681308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ✨
-
-Highlights:
-
-🛤️ Showcasing my professional journey, skills, and certifications.
-
-🤝 Connecting with tech enthusiasts, developers, and industry leaders.
-
-📝 Sharing updates on my projects, learning milestones, and achievements.
-
-🌍 Engaging in meaningful discussions and expanding my professional network.
-
-
-
----
-
-🎯 My Skills and Interests
-
-Programming Languages: C, C++, Python 🐍
-
-Web Development: HTML, CSS, JavaScript 🌐
-
-Database Management: MySQL 🛢️
-
-Other Tools: Git, GitHub, Canva 🛠️
-
-Soft Skills: Communication, Collaboration, Critical Thinking, Sports etc. 🗣️
-
-
-
----
-
-🚀 Achievements and Highlights
-
-🌟 Developed multiple web projects deployed live on Vercel.
-
-📖 Built educational content for beginners in Python programming.
-
-♻️ Contributed to projects supporting social causes like Climate Action.
-
-🤖 Constantly learning about Machine Learning, AI, and Full-Stack Development.
-
-
-
----
-
-🌱 What I'm Currently Working On
-
-🧠 Learning about AI applications.
-
-🏗️ Building scalable, real-world web apps that solve problems.
-
-
-
----
-
-🎯 Future Goals
-
-💻 Become a Full-Stack Developer mastering both front-end and back-end technologies.
-
-🌐 Contribute to open-source projects and tech communities.
-
-✨ Create projects that combine technology and positive social impact.
-
-
-
----
-
-> ✨ I believe every line of code has the power to create something extraordinary — and I'm excited to keep learning, building, and making a difference!
-> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuva-1237&" alt="yuva-1237" /></p>
