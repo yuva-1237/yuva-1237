@@ -57,6 +57,6 @@
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23FFECCC&textColor=%23232946&aColor=%23FF6F3C" alt="Jokes Card" style="border-radius:14px;" />
 </p>
 
-<p align="center" style="font-size:1.08rem; color:#232946; font-weight:500;">
+<p align="center" style="font-size:1.1rem; color:#232946; font-weight:500;">
   💡 <b>Let's connect!</b> Whether you have a cool idea, want to collaborate, or just chat tech, reach out on any platform.
 </p>
