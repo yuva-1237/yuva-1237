@@ -14,7 +14,7 @@
   <a href="https://twitter.com/y_u_v_a_10" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-3A6EA5?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/yuva-thilagan-806681308" target="_blank">
+  <a href="https://www.linkedin.com/in/yuvathilagan-%E2%80%8C-806681308/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/_y_u_v_a_10_" target="_blank">
