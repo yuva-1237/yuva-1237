@@ -1,9 +1,9 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=48&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=K.+Yuvathilagan;Cyberpunk+Developer;Full+Stack+Explorer;Building+Next+Gen+Interfaces" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=48&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=K.+Yuvathilagan;Developer;Designer;Full+Stack+Explorer;Prompt+Engineer;Vibe+Coder;Video+Editor;Photo+Editor;Negotiator" />
 </h1>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Welcome%20to%20My%20Cyberpunk%20Universe&fontSize=40&fontAlignY=40&color=0:020024,50:090979,100:00F7FF&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Welcome%20to%20My%20Page&fontSize=40&fontAlignY=40&color=0:020024,50:090979,100:00F7FF&fontColor=ffffff"/>
 </p>
 
 <p align="center">
