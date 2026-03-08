@@ -1,62 +1,94 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2300&pause=900&color=FF6F3C&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+K.Yuvathilagan!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=K.+Yuvathilagan;Cyberpunk+Developer;Building+Future+Interfaces;Crafting+Digital+Experiences" />
 </h1>
 
-<p align="center" style="font-size:1.25rem; color:#232946; background: linear-gradient(90deg, #F9F9F9 0%, #FFECCC 100%); padding: 18px 0; border-radius: 14px; font-weight:500; margin-bottom: 15px;">
-  <span style="color:#FF6F3C; font-weight:700;">Passionate Developer</span> transforming ideas into <span style="color:#3A6EA5; font-weight:700;">elegant</span>, <span style="color:#FFC93C; font-weight:700;">functional</span>, and <span style="color:#6A197D; font-weight:700;">meaningful</span> interfaces.<br>
-  <span style="color:#232946;">I love blending creativity and logic to build projects that <b style="color:#FF6F3C;">inspire and work beautifully.</b> 🎯</span>
-</p>
-
 <p align="center">
-  <a href="https://yuvas-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-232946?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6F3C" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://twitter.com/y_u_v_a_10" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-3A6EA5?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yuvathilagan-%E2%80%8C-806681308/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/_y_u_v_a_10_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="mailto:yuvathilagan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-FFC93C?style=for-the-badge&logo=gmail&logoColor=232946" alt="Email Badge"/>
-  </a>
-  <a href="https://www.hackerrank.com/yuvathilagan" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-11998e?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20My%20Cyberpunk%20World&fontAlign=50&fontAlignY=40&color=0:0f2027,50:00F7FF,100:6A00FF&fontColor=ffffff"/>
 </p>
 
 ---
 
-<h3 align="center" style="font-size:1.22rem; color:#232946; letter-spacing:1px; margin-bottom:10px;">
-  🚀 Tech Stack & Tools
-</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="44" height="44" style="margin:7px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="44" height="44" style="margin:7px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="44" height="44" style="margin:7px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="44" height="44" style="margin:7px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="44" height="44" style="margin:7px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="44" height="44" style="margin:7px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="44" height="44" style="margin:7px"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="44" height="44" style="margin:7px"/>
+<b>⚡ Passionate Developer exploring the digital universe</b><br>
+Creating <b>futuristic interfaces</b>, interactive experiences, and elegant systems.
 </p>
 
 ---
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuva-1237&show_icons=true&theme=vue-dark&hide_border=true&bg_color=F9F9F9,FFECCC&title_color=FF6F3C&icon_color=FFC93C&text_color=232946" width="46%" style="min-width:290px; border-radius: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuva-1237&layout=compact&theme=vue-dark&hide_border=true&bg_color=FFECCC,F9F9F9&title_color=FF6F3C&text_color=232946" width="46%" style="min-width:290px; border-radius: 20px;"/>
-</div>
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://yuvas-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF">
+</a>
+
+<a href="https://twitter.com/y_u_v_a_10">
+<img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=00F7FF">
+</a>
+
+<a href="https://www.linkedin.com/in/yuvathilagan-%E2%80%8C-806681308/">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF">
+</a>
+
+<a href="https://instagram.com/_y_u_v_a_10_">
+<img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=ff00ff">
+</a>
+
+<a href="mailto:yuvathilagan@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ff003c">
+</a>
+
+<a href="https://www.hackerrank.com/yuvathilagan">
+<img src="https://img.shields.io/badge/HACKERRANK-000000?style=for-the-badge&logo=hackerrank&logoColor=00ff9c">
+</a>
+
+</p>
+
+---
+
+<h2 align="center">⚙️ Cyber Tech Arsenal</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,mysql,git&theme=dark" />
+
+</p>
+
+---
+
+<h2 align="center">📊 System Statistics</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yuva-1237&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=ff00ff&text_color=ffffff"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuva-1237&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<h2 align="center">💡 Random Dev Joke</h2>
+
+<p align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23FFECCC&textColor=%23232946&aColor=%23FF6F3C" alt="Jokes Card" style="border-radius:14px;" />
-</p>
-
-<p align="center" style="font-size:1.1rem; color:#232946; font-weight:500;">
-  💡 <b>Let's connect!</b> Whether you have a cool idea, want to collaborate, or just chat tech, reach out on any platform.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer"/>
 </p>
