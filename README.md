@@ -17,7 +17,7 @@
 <p align="center">
 💻 Passionate developer driven by <b>innovation, creativity & deep tech exploration</b><br>
 🎯 Building <b>futuristic UI, immersive web experiences & interactive systems</b><br>
-🚀 Focused on <b>frontend engineering, motion design & modern web architecture</b><br>
+🚀 Focused on <b>frontend engineering, motion design, data science & modern web architecture</b><br>
 🧠 Always exploring <b>new technologies, AI workflows & creative coding</b>
 </p>
 
