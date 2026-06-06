@@ -1,3 +1,4 @@
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=950&lines=YUVA+THILAGAN;AI+Engineer+%7C+Developer+%7C+Designer+%7C+Data+Analyst;Machine+Learning+%E2%80%A2+NLP+%E2%80%A2+Automation+%E2%80%A2+Full+Stack+Systems;Entering+Advanced+AI+Command+Center..." alt="Animated typing banner" />
 
