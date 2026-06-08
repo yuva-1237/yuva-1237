@@ -111,18 +111,6 @@ Full Stack Development | Automation | UI/UX Design | Prompt Engineering
 ---
 
 ## ━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 💼 EXPERIENCE PROTOCOLS
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-| Timeline | Role | Organization | Signal |
-|---|---|---|---|
-| 2026 | Data Analyst Intern | CodeAlpha | Data analysis, reporting, insights, dashboard thinking |
-| 2025 | UI Developer Intern | Thenam Software Solutions | Interface development, frontend execution, user-focused design |
-| 2025 | Software Developer Intern | Slesea Digital | Software development, web-based solutions, production workflows |
-
----
-
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## 🎮 MISSION LOGS
 ## ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
