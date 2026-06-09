@@ -6,7 +6,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/yuva-1237?label=FOLLOWERS&style=for-the-badge&color=7c3aed)
 ![GitHub Stars](https://img.shields.io/github/stars/yuva-1237?label=STARS&style=for-the-badge&color=facc15)
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-OPEN_SYSTEM-00f5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://yuvathilagan.github.io/)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-OPEN_SYSTEM-00f5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://yuvathilagan-portfolio.vercel.app)
 [![Request Collaboration](https://img.shields.io/badge/REQUEST_COLLABORATION-EMAIL_LINK-ff2bd6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvathilagan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-yuva--1237-181717?style=for-the-badge&logo=github)](https://github.com/yuva-1237)
 
