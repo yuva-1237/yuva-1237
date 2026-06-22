@@ -354,6 +354,6 @@ profile.focus     = AI systems, software products, data solutions, scalable engi
 
 <div align="center">
 
-Built with React, TypeScript, and Vite.
+Built by Yuvathilagan.
 
 </div>
