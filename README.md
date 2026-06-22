@@ -1,240 +1,359 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=950&lines=YUVA+THILAGAN;AI+Engineer+%7C+Developer+%7C+Designer+%7C+Data+Analyst;Machine+Learning+%E2%80%A2+NLP+%E2%80%A2+Automation+%E2%80%A2+Full+Stack+Systems;Entering+Advanced+AI+Command+Center..." alt="Animated typing banner" />
+# YUVA THILAGAN
 
-![Profile Views](https://komarev.com/ghpvc/?username=yuva-1237&label=COMMAND+CENTER+VISITS&color=00f5ff&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/yuva-1237?label=FOLLOWERS&style=for-the-badge&color=7c3aed)
-![GitHub Stars](https://img.shields.io/github/stars/yuva-1237?label=STARS&style=for-the-badge&color=facc15)
+### AI Engineer | Software Engineer | Design Engineer
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-OPEN_SYSTEM-00f5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://yuvathilagan-portfolio.vercel.app)
-[![Request Collaboration](https://img.shields.io/badge/REQUEST_COLLABORATION-EMAIL_LINK-ff2bd6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvathilagan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-yuva--1237-181717?style=for-the-badge&logo=github)](https://github.com/yuva-1237)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=00D8FF&center=true&vCenter=true&width=920&lines=AI+Systems+%7C+Software+Products+%7C+Data+Solutions;Generative+AI+%7C+Machine+Learning+%7C+NLP+%7C+Automation;Full+Stack+Engineering+%7C+Analytics+%7C+Design+Systems" alt="Technical typing banner" />
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=yuva-1237&label=Profile%20Views&color=00d8ff&style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20Source-Builder-0d1117?style=flat-square&logo=github&logoColor=white)
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-Focused-00d8ff?style=flat-square)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-Product%20Mindset-7c3aed?style=flat-square)
 
----
-
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🟢 SYSTEM STATUS
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-```txt
-AI ENGINEER:             ACTIVE
-DEVELOPER MODE:          ONLINE
-DESIGN SYSTEMS:          OPERATIONAL
-DATA ANALYTICS CORE:     RUNNING
-PROBLEM SOLVING ENGINE:  READY
-AUTOMATION PIPELINE:     ARMED
-LEARNING PROTOCOL:       ALWAYS UPGRADING
-```
-
-I am building at the intersection of intelligence, interfaces, automation, and data. This repository is the command center for my personal portfolio: a high-signal view of my work as an **AI Engineer, Developer, Designer, and Data Analyst**.
-
----
-
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🧑‍🚀 PLAYER PROFILE
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<div align="center">
-
-## YUVA THILAGAN
-
-### AI ENGINEER • DEVELOPER • DESIGNER
-
-</div>
-
-I am a **Computer Science Engineering student at Prathyusha Engineering College** with hands-on experience in **Python, SQL, Machine Learning, Natural Language Processing, Data Analytics, Full Stack Development, Automation, and UI/UX Design**.
-
-My mission is to design intelligent systems that feel useful, fast, and human-centered: AI applications that understand language, dashboards that reveal patterns, automation systems that remove repetitive work, and web experiences that make technology easier to use.
-
-```txt
-CURRENT ROLE:
-AI Engineer | Developer | Designer | Data Analyst
-
-CORE FOCUS:
-Artificial Intelligence | Machine Learning | NLP | Data Analytics
-Full Stack Development | Automation | UI/UX Design | Prompt Engineering
-```
-
----
-
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
-## ⚔️ TECH STACK ARSENAL
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### ⚔ Languages
-![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=00F5FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-0B1220?style=for-the-badge&logo=openjdk&logoColor=FF6B00)
-![C](https://img.shields.io/badge/C-0B1220?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-0B1220?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-
-### 🧠 AI & Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![NLP](https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=openai&logoColor=00F5FF)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-![TextBlob](https://img.shields.io/badge/TextBlob-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=013243)
-
-### 📊 Data Analytics
-![Power BI](https://img.shields.io/badge/Power_BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Excel](https://img.shields.io/badge/Excel-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-0F172A?style=for-the-badge&logo=databricks&logoColor=FF3621)
-![Dashboards](https://img.shields.io/badge/Dashboards-0F172A?style=for-the-badge&logo=tableau&logoColor=E97627)
-
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-111827?style=for-the-badge&logo=materialdesign&logoColor=00F5FF)
-
-### 🌐 Development Tools
-![React](https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Playwright](https://img.shields.io/badge/Playwright-0B1220?style=for-the-badge&logo=playwright&logoColor=2EAD33)
-![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF)
-
-### ☁ Cloud & Deployment
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-111827?style=for-the-badge&logo=githubpages&logoColor=FFFFFF)
-![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
-
-### 🚀 Productivity Stack
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-0F172A?style=for-the-badge&logo=target&logoColor=00F5FF)
-![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-0F172A?style=for-the-badge&logo=googlescholar&logoColor=4285F4)
-![Team Leadership](https://img.shields.io/badge/Team_Leadership-0F172A?style=for-the-badge&logo=teamspeak&logoColor=2580C3)
-![Time Management](https://img.shields.io/badge/Time_Management-0F172A?style=for-the-badge&logo=clockify&logoColor=03C9A9)
-
----
-
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🎮 MISSION LOGS
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Mission IA Zone
-| Field | Details |
-|---|---|
-| Objective | Build an AI-powered chatbot platform that can support intelligent user interactions. |
-| Technologies | NLP, Prompt Engineering, AI application design |
-| Outcome | Created a chatbot-focused AI experience designed for natural language interaction and smarter digital assistance. |
-
-### Mission Exam Forge
-| Field | Details |
-|---|---|
-| Objective | Develop an online examination platform with dynamic question management. |
-| Technologies | React, Web Development, UI Development |
-| Outcome | Built a structured exam system that improves question handling, test flow, and digital assessment workflows. |
-
-### Mission Sentiment Analysis
-| Field | Details |
-|---|---|
-| Objective | Classify text sentiment and convert raw language into meaningful emotional signals. |
-| Technologies | Python, NLP, TextBlob, Machine Learning concepts |
-| Outcome | Delivered a sentiment analysis system for text classification and language insight extraction. |
-
-### Mission FIFA Analytics Dashboard
-| Field | Details |
-|---|---|
-| Objective | Transform FIFA World Cup data into an interactive analytics dashboard. |
-| Technologies | Power BI, Excel, Data Analytics, Data Visualization |
-| Outcome | Built a football analytics dashboard that makes performance trends and tournament insights easier to explore. |
-
-### Mission Automated Web Scraping System
-| Field | Details |
-|---|---|
-| Objective | Automate large-scale data extraction from web-based sources. |
-| Technologies | Playwright, Automation, Web Scraping, JavaScript |
-| Outcome | Created an automation system for repeatable, scalable, and efficient data collection workflows. |
-
----
-
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🏆 ACHIEVEMENTS UNLOCKED
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-![AI Builder](https://img.shields.io/badge/AI_BUILDER-UNLOCKED-00f5ff?style=for-the-badge)
-![Data Explorer](https://img.shields.io/badge/DATA_EXPLORER-UNLOCKED-facc15?style=for-the-badge)
-![Automation Architect](https://img.shields.io/badge/AUTOMATION_ARCHITECT-UNLOCKED-ff2bd6?style=for-the-badge)
-![Problem Solver](https://img.shields.io/badge/PROBLEM_SOLVER-UNLOCKED-22c55e?style=for-the-badge)
-![Full Stack Creator](https://img.shields.io/badge/FULL_STACK_CREATOR-UNLOCKED-7c3aed?style=for-the-badge)
-
-```txt
-SOFT SKILL MODULES:
-Problem Solving      -> Ready
-Analytical Thinking  -> Ready
-Team Leadership      -> Ready
-Time Management      -> Ready
-```
-
----
-
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 📡 LIVE SYSTEM METRICS
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yuva-1237&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF2BD6&text_color=E5E7EB" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuva-1237&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E5E7EB" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=yuva-1237&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF2BD6&currStreakLabel=00F5FF" alt="GitHub streak stats" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=yuva-1237&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub trophy section" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuva-1237&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF2BD6&point=FACC15" alt="GitHub contribution activity graph" />
+[Live Portfolio](https://yuvathilagan-portfolio.vercel.app/) |
+[Email](mailto:yuvathilagan@gmail.com) |
+[LinkedIn](https://www.linkedin.com/in/yuvathilagan-%E2%80%8C-806681308/) |
+[GitHub](https://github.com/yuva-1237)
 
 </div>
 
 ---
 
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🛰 CONNECT TERMINAL
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
+## Engineering Console
 
-| Channel | Access Point |
-|---|---|
-| Email Channel | [yuvathilagan@gmail.com](mailto:yuvathilagan@gmail.com) |
-| LinkedIn Network | [Yuvathilagan](https://www.linkedin.com/in/yuvathilagan-%E2%80%8C-806681308/) |
-| GitHub Repository | [@yuva-1237](https://github.com/yuva-1237) |
-| Instagram Feed | [@_y_u_v_a_10_](https://www.instagram.com/_y_u_v_a_10_/) |
-| Pinterest Board | [@ythilagan](https://in.pinterest.com/ythilagan/) |
-| Figma Workspace | [@yuvathilagan](https://www.figma.com/@yuvathilagan) |
-| WhatsApp Direct Link | [+91 7200576053](https://wa.me/917200576053) |
+```txt
+identity.status      = online
+primary.role         = AI Engineer
+secondary.roles      = Software Engineer, Design Engineer, Data Analyst
+engineering.mode     = systems thinking + product execution
+current.objective    = build intelligent, scalable, useful software
+```
+
+I am a **Computer Science Engineering student at Prathyusha Engineering College** focused on building practical AI systems, automation workflows, analytical dashboards, and full stack products. My work combines **Artificial Intelligence, Machine Learning, NLP, Data Analytics, Full Stack Engineering, and UI/UX Design** with a strong bias toward solving real problems through clean implementation.
+
+I think like an engineer first: understand the problem, model the system, design the architecture, validate with data, automate repetitive work, and ship usable software.
+
+---
+
+## Technical Profile
+
+| Area                 | Current Focus                                                                     |
+| -------------------- | --------------------------------------------------------------------------------- |
+| AI Engineering       | Generative AI, Machine Learning, NLP, prompt engineering, AI product workflows    |
+| Agentic Systems      | AI agents, task automation, workflow orchestration, tool-assisted reasoning       |
+| Data Engineering     | Data analytics, reporting, dashboards, structured insight extraction              |
+| Software Engineering | Full stack development, frontend systems, web applications, scalable architecture |
+| Automation           | Playwright automation, scraping workflows, repeatable data collection systems     |
+| Design Engineering   | UI/UX design, Figma prototyping, user-centered interface development              |
+
+### Engineering Interests
+
+```txt
+LLM Applications       RAG Systems            AI Agents
+MLOps                  Data Pipelines         System Design
+Scalable Architecture  Automation Systems     Product Engineering
+```
+
+---
+
+## Technical Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00D8FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=F89820)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+
+### Generative AI & Large Language Models
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=00D8FF)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-111827?style=for-the-badge&logo=googledrive&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge&logo=semanticweb&logoColor=00D8FF)
+![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-111827?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-111827?style=for-the-badge&logo=huggingface&logoColor=FEE12B)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=white)
+
+### AI & Machine Learning Core
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![NLP](https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=openai&logoColor=00D8FF)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![YOLO](https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=googlecommon&logoColor=white)
+
+### Frontend Engineering
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)
+
+### Backend & API Engineering
+
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+### Databases & Vector Stores
+
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-0f172a?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0f172a?style=for-the-badge&logo=googlekeep&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0f172a?style=for-the-badge&logo=facebook&logoColor=00D8FF)
+![Pinecone](https://img.shields.io/badge/Pinecone-0f172a?style=for-the-badge&logo=pinecone&logoColor=EC4899)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=DC382D)
+
+### Data Science & Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![Power BI](https://img.shields.io/badge/Power%20BI-0f172a?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel-0f172a?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+![Streamlit](https://img.shields.io/badge/Streamlit-0f172a?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+
+### Automation & Testing
+
+![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=2EAD33)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-0d1117?style=for-the-badge&logo=selenium&logoColor=43B02A)
+
+### Cloud, DevOps & MLOps
+
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=232F3E)
+![Azure](https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![GCP](https://img.shields.io/badge/GCP-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![MLOps](https://img.shields.io/badge/MLOps-111827?style=for-the-badge&logo=databricks&logoColor=FF3621)
+![MLflow](https://img.shields.io/badge/MLflow-111827?style=for-the-badge&logo=mlflow&logoColor=0194E2)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Deployment](https://img.shields.io/badge/Deployment-111827?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Developer Tools
+
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+### Design & Prototyping
+
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-0d1117?style=for-the-badge&logo=materialdesign&logoColor=00D8FF)
+
+
+---
+
+## Experience
+
+| Timeline | Role                      | Organization              | Engineering Signal                                                               |
+| -------- | ------------------------- | ------------------------- | -------------------------------------------------------------------------------- |
+| 2026     | Data Analyst Intern       | CodeAlpha                 | Data analysis, reporting, insight generation, dashboard-oriented problem solving |
+| 2025     | UI Developer Intern       | Thenam Software Solutions | Frontend development, interface implementation, user-focused design execution    |
+| 2025     | Software Developer Intern | Slesea Digital            | Software development, web-based solutions, engineering workflow exposure         |
+
+---
+
+## Engineering Case Studies
+
+### Project Hail Mary - Autonomous Multi-Agent AI Decision Intelligence
+
+| Dimension         | Details                                                                                                                  |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Problem Statement | Deep-space exploratory systems operate with high telemetry complexity under severe speed-of-light communication latency, requiring local autonomous decision-making. |
+| Architecture      | Multi-Agent orchestrator utilizing specialized LLM agents (Commander, Safety, Resource, Navigation, Science) running against a digital twin telemetry simulator and Monte Carlo risk estimator. |
+| Technology Stack  | React, TypeScript, Three.js, React Three Fiber, Gemini API, OpenAI API, Multi-Agent Orchestration.                        |
+| Implementation    | Built an interactive 3D command deck telemetry visualization, live digital twin simulation, and real-time agent reasoning log. |
+| Impact            | Demonstrated zero-latency local diagnostic capability and highly explainable safety resolutions.                         |
+| GitHub Repository | [yuva-1237/Project_hail_mary](https://github.com/yuva-1237/Project_hail_mary)                                             |
+
+### BotZone - Local & Private Multimodal RAG Platform
+
+| Dimension         | Details                                                                                                                  |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Problem Statement | Enterprises and users require secure, private, and offline multimodal data interactions without relying on external cloud LLM APIs. |
+| Architecture      | Pipeline connecting local Ollama models (Llama 3.3, DeepSeek R1) with a vector retrieval database and LangGraph workflows. |
+| Technology Stack  | Python, Streamlit, Ollama, LangGraph, RAG, Whisper (speech-to-text), EasyOCR (image text extraction).                    |
+| Implementation    | Built an intuitive local workspace enabling chat with documents, image description, audio transcription, and agentic RAG search. |
+| Impact            | Delivered a 100% private, local-first alternative for complete document intelligence.                                     |
+| GitHub Repository | [yuva-1237/BotZone](https://github.com/yuva-1237/BotZone)                                                                 |
+
+### ARS - Intelligent Resume Screener & ATS Copilot
+
+| Dimension         | Details                                                                                                                  |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Problem Statement | Recruiting processes suffer from manual resume processing overhead and lack of unified assessment analytics.             |
+| Architecture      | Client-server setup with a FastAPI backend running Gemini parsing engines and OCR extraction, connected to a Next.js front. |
+| Technology Stack  | FastAPI, Next.js, TypeScript, Python, Gemini API, Tesseract OCR, Tailored Prompt System.                                 |
+| Implementation    | Programmed automated file parsing, text extraction, quantitative score card generation, and an interactive recruiter chatbot. |
+| Impact            | Streamlined candidate vetting with explainable suitability scoring and immediate profile querying.                       |
+| GitHub Repository | [yuva-1237/ARS](https://github.com/yuva-1237/ARS)                                                                         |
+
+### IA Zone - Advanced AI Gateway & Assistant Hub
+
+| Dimension         | Details                                                                                                                  |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Problem Statement | Users need centralized access to conversational assistance with interactive, human-like interfaces.                     |
+| Architecture      | Client-side gateway with customized multilingual translation contexts and interactive 3D graphics.                       |
+| Technology Stack  | React, TypeScript, Tailwind CSS, Vite, Supabase, TanStack Query, Framer Motion.                                          |
+| Implementation    | Integrated custom theme controls, real-time multilingual contexts, and a 3D robot companion powered by Framer Motion.    |
+| Impact            | Created an elegant, high-performance gateway for user-facing AI assistant workflows.                                     |
+| Links             | [Source Code](https://github.com/yuva-1237/ia-zone) \| [Live Demo](https://ia-zone.vercel.app/)                          |
+
+### Exam Forge - Online Examination Platform
+
+| Dimension         | Details                                                                                                        |
+| ----------------- | -------------------------------------------------------------------------------------------------------------- |
+| Problem Statement | Online assessments need structured question management, reliable test flow, and a clear interface for users.   |
+| Architecture      | React-based frontend application with dynamic question handling and modular UI screens.                        |
+| Technology Stack  | React, JavaScript, HTML, CSS, UI development.                                                                  |
+| Implementation    | Built a web-based examination workflow with dynamic question management and organized assessment interactions. |
+| Impact            | Created a digital exam system that improves test administration and question handling.                         |
+
+### Sentiment Analysis Using NLP
+
+| Dimension         | Details                                                                                                            |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Problem Statement | Raw text data needs classification into meaningful sentiment signals for faster interpretation.                    |
+| Architecture      | Text preprocessing and sentiment classification pipeline using NLP methods and TextBlob.                           |
+| Technology Stack  | Python, NLP, TextBlob, Machine Learning concepts.                                                                  |
+| Implementation    | Built a text classification workflow to analyze sentiment polarity and convert language into interpretable output. |
+| Impact            | Delivered a practical NLP system for sentiment extraction and text analytics.                                      |
+
+### FIFA World Cup Analytics Dashboard
+
+| Dimension         | Details                                                                                                             |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Problem Statement | Sports datasets are difficult to interpret without visual analysis, filtering, and trend exploration.               |
+| Architecture      | Data transformation and dashboard layer for interactive visual exploration.                                         |
+| Technology Stack  | Power BI, Excel, Data Analytics, Data Visualization.                                                                |
+| Implementation    | Converted football analytics data into dashboard views for performance trends and tournament insights.              |
+| Impact            | Made FIFA World Cup data easier to understand through interactive reporting and visual storytelling.                |
+
+### Automated Web Scraping System
+
+| Dimension         | Details                                                                                             |
+| ----------------- | --------------------------------------------------------------------------------------------------- |
+| Problem Statement | Manual data extraction is slow, repetitive, and difficult to scale across web-based sources.        |
+| Architecture      | Browser automation workflow using Playwright for repeatable data collection.                        |
+| Technology Stack  | Playwright, JavaScript, Automation, Web Scraping.                                                   |
+| Implementation    | Built an automated extraction system for collecting data from web interfaces at scale.              |
+| Impact            | Reduced repetitive manual effort and improved consistency in large-scale data collection workflows. |
+
+---
+
+## Core Engineering Principles
+
+| Principle            | How I Apply It                                                                             |
+| -------------------- | ------------------------------------------------------------------------------------------ |
+| Problem Solving      | Break ambiguous requirements into clear objectives, constraints, and implementation steps. |
+| Data-Driven Thinking | Use data, dashboards, and measurable signals to guide product and technical decisions.     |
+| Continuous Learning  | Keep improving across AI, software architecture, data systems, and design engineering.     |
+| Scalable Development | Build systems that can evolve beyond the first version.                                    |
+| Clean Architecture   | Prefer readable structure, modular components, and maintainable workflows.                 |
+| Automation First     | Automate repetitive tasks when it improves speed, accuracy, and consistency.               |
+
+---
+
+## Current Learning Roadmap
+
+```txt
+Generative AI             -> LLM applications, prompt systems, evaluation workflows
+AI Agents                 -> tool use, planning loops, workflow orchestration
+Advanced Machine Learning -> model behavior, feature thinking, applied ML systems
+Cloud Engineering         -> deployment patterns, hosted apps, reliability basics
+System Design             -> scalable architecture, APIs, data flow, tradeoffs
+MLOps                     -> experiment tracking, model lifecycle, production AI workflows
+```
+
+---
+
+## GitHub Metrics
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email_Channel-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvathilagan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvathilagan-%E2%80%8C-806681308/)
-[![GitHub](https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuva-1237)
-[![Instagram](https://img.shields.io/badge/Instagram_Feed-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_y_u_v_a_10_/)
-[![Figma](https://img.shields.io/badge/Figma_Workspace-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@yuvathilagan)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_Direct_Link-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917200576053)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yuva-1237&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=7C3AED&text_color=E5E7EB" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuva-1237&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=E5E7EB" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=yuva-1237&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D8FF&fire=7C3AED&currStreakLabel=00D8FF" alt="GitHub streak stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuva-1237&theme=github-compact&hide_border=true&bg_color=0D1117&color=E5E7EB&line=00D8FF&point=7C3AED" alt="GitHub contribution activity graph" />
+
+</div>
+
+### Coding Activity
+
+| Activity Area     | Signal                                                                     |
+| ----------------- | -------------------------------------------------------------------------- |
+| AI Systems        | Chatbot workflows, NLP pipelines, prompt engineering, sentiment analysis   |
+| Software Products | React applications, portfolio systems, online examination workflows        |
+| Data Solutions    | Power BI dashboards, Excel analysis, insight reporting, data visualization |
+| Automation        | Playwright scraping, browser automation, repeatable extraction workflows   |
+
+### Engineering Metrics
+
+| Metric                      | Signal                                                                                 |
+| --------------------------- | -------------------------------------------------------------------------------------- |
+| Primary Engineering Domains | AI Engineering, Software Engineering, Data Analytics, Automation                       |
+| Product Surface             | AI apps, dashboards, full stack web systems, automated data workflows                  |
+| Repository Focus            | Portfolio, applied projects, technical documentation, project iteration                |
+| Collaboration Readiness     | Open to engineering collaboration, internships, AI product work, and software projects |
+
+### Repository Statistics
+
+![GitHub Followers](https://img.shields.io/github/followers/yuva-1237?label=Followers&style=for-the-badge&color=00d8ff)
+![GitHub Stars](https://img.shields.io/github/stars/yuva-1237?label=Stars&style=for-the-badge&color=7c3aed)
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yuva-1237&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub profile trophies" />
 
 </div>
 
 ---
 
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🧬 SYSTEM BUILD
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━
+## Contact
+
+| Channel   | Link                                                                          |
+| --------- | ----------------------------------------------------------------------------- |
+| Email     | [yuvathilagan@gmail.com](mailto:yuvathilagan@gmail.com)                       |
+| LinkedIn  | [Yuvathilagan](https://www.linkedin.com/in/yuvathilagan-%E2%80%8C-806681308/) |
+| GitHub    | [@yuva-1237](https://github.com/yuva-1237)                                    |
+| Instagram | [@_y_u_v_a_10_](https://www.instagram.com/_y_u_v_a_10_/)                      |
+| Pinterest | [@ythilagan](https://in.pinterest.com/ythilagan/)                             |
+| Figma     | [@yuvathilagan](https://www.figma.com/@yuvathilagan)                          |
+| WhatsApp  | [+91 7200576053](https://wa.me/917200576053)                                  |
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvathilagan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvathilagan-%E2%80%8C-806681308/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuva-1237)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D8FF?style=for-the-badge&logo=githubpages&logoColor=0D1117)](https://yuvathilagan.github.io/)
+
+</div>
+
+---
+
+## Portfolio System
 
 ```txt
-PORTFOLIO ENGINE:
-React + TypeScript + Vite
-
-REPOSITORY PURPOSE:
-Personal portfolio repository of Yuvathilagan,
-an Aspiring AI Engineer, Data Analyst, Full Stack Developer,
-UI Developer, Designer, and Automation-focused builder.
+repository.type   = personal portfolio
+portfolio.engine  = React + TypeScript + Vite
+profile.focus     = AI systems, software products, data solutions, scalable engineering projects
 ```
 
 <div align="center">
 
-### ⚡ END OF TRANSMISSION • SYSTEM READY FOR COLLABORATION ⚡
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7C3AED,100:FF2BD6&height=120&section=footer&text=AI%20SYSTEM%20ONLINE&fontColor=ffffff&fontSize=28&animation=twinkling)
+Built with React, TypeScript, and Vite.
 
 </div>
