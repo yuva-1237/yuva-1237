@@ -8,194 +8,242 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=00D8FF&center=true&vCenter=true&width=920&lines=Research-Driven+AI+%7C+Reproducible+Systems+%7C+Responsible+Design" alt="typing" />
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yuva-1237&label=Profile%20Views&color=00d8ff&style=flat-square)](https://github.com/yuva-1237)
+<p align="center">
+  [![Profile Views](https://komarev.com/ghpvc/?username=yuva-1237&label=Profile%20Views&color=00d8ff&style=flat-square)](https://github.com/yuva-1237)
+  &nbsp;&nbsp;
+  ![Followers](https://img.shields.io/github/followers/yuva-1237?label=Followers&style=flat-square&color=00d8ff)
+  ![Stars](https://img.shields.io/github/stars/yuva-1237?label=Stars&style=flat-square&color=7c3aed)
+  ![Top Language](https://img.shields.io/github/languages/top/yuva-1237/yuva-1237?style=flat-square&color=0d1117)
+</p>
 
 </div>
+
+---
+
+Table of contents
+- [Abstract](#abstract)
+- [Snapshot](#snapshot)
+- [Selected Projects](#selected-projects)
+  - [BotZone (case study)](#botzone-case-study)
+  - [Project Hail Mary](#project-hail-mary)
+  - [IA Zone](#ia-zone)
+- [Research Interests & Methods](#research-interests--methods)
+- [Technical Competence](#technical-competence)
+- [Reproducibility & Quick Start](#reproducibility--quick-start)
+- [UI / UX Improvements (recommendations & quick fixes)](#ui--ux-improvements-recommendations--quick-fixes)
+- [Publications & Citations](#publications--citations)
+- [Contact](#contact)
 
 ---
 
 Abstract
 --------
 
-I am a Computer Science Engineering student with a research-minded orientation toward building reliable, interpretable, and reproducible AI systems. My work sits at the intersection of theoretical understanding and applied engineering: I design models, implement production-ready pipelines, and evaluate systems with rigorous metrics. This README presents a concise academic-style dossier of my interests, methods, and selected contributions.
+> I design, implement, and evaluate interpretable AI systems with an emphasis on reproducibility, privacy, and product-quality user experiences. This repository is a living dossier of my research and engineering work.
+
+
+## Snapshot
+
+- Student: Computer Science Engineering — Prathyusha Engineering College
+- Roles: Researcher · AI Engineer · Software Engineer · Design Engineer
+- Focus: Agentic AI, RAG, local LLM stacks, reproducible pipelines, UX-driven interfaces
+- Contact: [yuvathilagan@gmail.com](mailto:yuvathilagan@gmail.com) · [Portfolio](https://yuvathilagan-portfolio.vercel.app/)
 
 ---
 
-Research Interests
-------------------
+Selected Projects (short)
+- BotZone — Local & Private Multimodal RAG Platform · Repo: https://github.com/yuva-1237/BotZone
+- Project Hail Mary — Autonomous Multi-Agent Decision Intelligence · Repo: https://github.com/yuva-1237/Project_hail_mary
+- IA Zone — AI Gateway & Assistant Hub (live demo) · https://ia-zone.vercel.app/ · Repo: https://github.com/yuva-1237/ia-zone
+- ARS — Intelligent Resume Screener · Repo: https://github.com/yuva-1237/ARS
+- Exam Forge — Online Examination Platform
 
-- Foundations of language models: robustness, alignment, and evaluation.  
-- Retrieval-augmented generation (RAG): vector retrieval fidelity, context-window strategies, and latency-accuracy tradeoffs.  
-- Agentic architectures: hierarchical planners, tool integration, and safety layers for autonomous agents.  
-- Private & local inference: reproducible pipelines for on-premise LLM deployments and multimodal privacy-preserving systems.  
+---
+
+BotZone (case study)
+---------------------
+
+<details>
+<summary>Click to expand the full BotZone case study (background, methods, results, lessons)</summary>
+
+### Background
+
+Enterprises and privacy-conscious users require document intelligence without sending sensitive data to remote APIs. BotZone is a local-first, multimodal RAG workspace that supports OCR and audio transcription for private document querying.
+
+### Objectives
+
+- Private, offline-capable RAG with deterministic pipelines
+- Multimodal support (text, scanned docs, audio)
+- Reproducible evaluation and deterministic runs
+
+### Architecture (high-level)
+
+1. Ingestion: PDF/text ingestion, layout-aware OCR (EasyOCR/Tesseract), Whisper for audio.
+2. Embeddings & storage: local embeddings (Ollama/HF), Chroma/FAISS vector store.
+3. Retrieval & reranking: vector similarity + lexical reranker.
+4. Generation: local LLM inference (Ollama/LLaMA family) with agentic tool calls sandboxed.
+5. Evaluation: seeded benchmarks, human-in-the-loop QA.
+
+### Representative results (example — run benchmarks to replace)
+- Ingestion throughput: ~50 pages/min on 4-core laptop.
+- Retrieval latency (10k docs): median 45 ms (Chroma+FAISS).
+- End-to-end median query latency: ~1.2s (small/medium local LLM).
+- Example QA exact-match: 81% on an internal 200-question set.
+
+### Lessons learned
+- OCR quality dominates downstream QA; invest in layout-aware models and post-correction.
+- Lexical reranking often improves accuracy more cost-effectively than larger LLMs.
+- Expose provenance to users — it increases trust and debugability.
+
+### Artifacts
+- Repo: https://github.com/yuva-1237/BotZone
+- Local demo / quickstart: see next section
+
+</details>
+
+---
+
+Project Hail Mary — short
+
+- Multi-agent orchestration for time-critical decision-making under delayed communications. Uses a simulated digital twin and Monte Carlo policy evaluation to maintain safety constraints. Repo: https://github.com/yuva-1237/Project_hail_mary
+
+---
+
+IA Zone — short
+
+- Multilingual assistant gateway with real-time context adaptation and a 3D agentic companion. Live demo: https://ia-zone.vercel.app/ · Repo: https://github.com/yuva-1237/ia-zone
+
+---
+
+Research Interests & Methods
+----------------------------
+
+- Foundations of LMs: robustness, alignment, evaluation
+- RAG: retrieval fidelity, latency vs accuracy tradeoffs
+- Agentic architectures: planners, tool integration, safety
+- Private inference: on-premise LLM deployments, multimodal privacy
+
+Methodological commitments: reproducibility (seed control, containers), interpretability (provenance, structured logs), and safety (minimize external APIs for sensitive data).
 
 ---
 
 Technical Competence
 --------------------
 
-- Programming: Python (numerical computing, model development), TypeScript (interactive frontends), Java/ C/C++ (systems programming).  
-- Machine learning & systems: PyTorch, TensorFlow, Hugging Face, model fine-tuning, evaluation protocols, and experiment tracking.  
-- LLM ecosystems: LangChain, LlamaIndex, Ollama integration, RAG pipelines, prompt engineering and automated evaluation.  
-- Data infrastructure: PostgreSQL, MongoDB, Redis, vector stores (Pinecone, Chroma, FAISS).  
-- Engineering & deployment: FastAPI, Docker, GitHub Actions, Vercel, cloud fundamentals (AWS/GCP/Azure).  
+- Languages: Python, TypeScript, Java, C/C++
+- ML & tools: PyTorch, TensorFlow, Hugging Face, LangChain, LlamaIndex, Ollama
+- Data infra: Postgres, MongoDB, Redis, Pinecone, Chroma, FAISS
+- Deployment: FastAPI, Docker, GitHub Actions, Vercel, Kubernetes (optional)
 
 ---
 
-Methodological Approach
------------------------
+Reproducibility & Quick Start (BotZone example)
 
-My engineering practice follows reproducible research principles: define the hypothesis, design the experimental setup, implement a robust pipeline, and report quantitative metrics alongside qualitative analysis. Key commitments:
+Recommended quickstart (local developer environment):
 
-- Reproducibility: containerised environments, seed control, and documented pipelines.  
-- Interpretability: structured logs, agent transcripts, and post-hoc explanation routines where feasible.  
-- Safety & Privacy: minimize external API dependence for sensitive data; prefer local-first architectures when confidentiality is required.  
+```bash
+# clone
+git clone https://github.com/yuva-1237/BotZone.git
+cd BotZone
 
----
+# optional: create venv
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 
-Selected Contributions (abstracts)
-----------------------------------
+# start local demo (Docker Compose if present)
+docker-compose up --build
+# or run backend locally
+uvicorn app.main:app --reload
+```
 
-Project Hail Mary — Autonomous Multi-Agent Decision Intelligence
-- Abstract: Developed a multi-agent orchestration framework for time-critical decision-making under delayed communication constraints. The system composes specialized agents (commander, safety, navigation, resource) against a simulated digital twin and uses Monte Carlo-based policy evaluation to maintain operational safety.
-- Outcome: Demonstrated robust local decision-making under high-latency constraints; architecture emphasizes interpretability and formal safety checks.
-- Repo: https://github.com/yuva-1237/Project_hail_mary
-
-BotZone — Local & Private Multimodal RAG Platform
-- Abstract: Engineered a private-first multimodal retrieval system that integrates local LLMs (via Ollama) with vector retrieval and multimodal pre-processing (OCR, speech-to-text). Emphasis on offline capability, data minimisation, and deterministic pipelines.
-- Outcome: A working workspace for private document intelligence enabling offline inference and multimodal querying.
-- Repo: https://github.com/yuva-1237/BotZone
-
-ARS — Intelligent Resume Screener & ATS Copilot
-- Abstract: Implemented a candidate screening pipeline combining document parsing, feature extraction, and explainable scoring. The system provides an interactive recruiter interface and a transparent scoring rubric.
-- Outcome: Reduced manual resume triage effort through automated, explainable assessments.
-- Repo: https://github.com/yuva-1237/ARS
-
-IA Zone — AI Gateway & Assistant Hub
-- Abstract: Built a multilingual assistant gateway with real-time context adaptation, interactive frontend affordances, and a 3D agentic companion for enhanced user experience.
-- Outcome: Production-quality front-end integration showcasing conversational UX and system extensibility. Live demo: https://ia-zone.vercel.app/ · Repo: https://github.com/yuva-1237/ia-zone
-
-Exam Forge — Structured Examination Platform
-- Abstract: Designed modular assessment flows, secure test sessions, and an extensible question engine emphasizing UX and accessibility.
-- Outcome: A platform suitable for controlled online assessments with modular question management.
+For reproducible evaluation:
+- Ensure experiment-config.yaml exists and contains a random seed
+- Use the provided `eval/run_benchmarks.py --config experiment-config.yaml` script (if present)
 
 ---
 
-Expanded Case Study — BotZone (formal)
---------------------------------------
+Visuals & Assets (improve README UX)
 
-Background
-~~~~~~~~~~
+- Place project GIFs/screenshots in `.github/assets/` and reference them as raw URLs.
+- Use centered images and short captions. Example:
 
-Enterprises and privacy-conscious users increasingly demand document intelligence without sending sensitive data to remote APIs. BotZone addresses this by providing a local-first, multimodal RAG workspace that supports text, scanned documents, and audio inputs while maintaining strict data locality.
-
-Objectives
-~~~~~~~~~~
-
-- Build a private, offline-capable RAG system that lets users query documents locally.  
-- Support multimodal inputs: OCR for scanned PDFs/images and speech-to-text for audio notes.  
-- Maintain reproducibility and deterministic behavior for evaluation and testing.
-
-Methods
-~~~~~~~
-
-System architecture (high-level):
-
-1. Ingestion
-   - Document pipeline: PDF/text ingestion, page segmentation, text normalization.  
-   - Image OCR: EasyOCR/Tesseract with layout-aware parsing for scanned documents.  
-   - Audio transcription: Whisper (local mode) with language detection and segmentation.
-
-2. Embedding & Storage
-   - Embeddings: local model embeddings via Ollama or Hugging Face transformers, configurable per-run.  
-   - Vector store: Chroma/FAISS for offline nearest-neighbor retrieval; Pinecone optional for cloud deployments.
-
-3. Retrieval & Reranking
-   - Initial retrieval using vector similarity (cosine distance).  
-   - Optional lexical reranking using BM25-style heuristics and prompt-based relevance scoring.
-
-4. Generation & Agentic Assist
-   - LLM responses generated locally (Ollama/Llama 3.3) or using a selectable backend.  
-   - Agentic orchestration: tool calls for calculators, fetchers, and external connectors are sandboxed and audited.
-
-5. Evaluation & Reproducibility
-   - Synthetic QA benchmarks and human-in-the-loop evaluation.  
-   - Seeded runs, fixed tokenizer versions, and containerised deployment for reproducibility.
-
-Implementation details
-~~~~~~~~~~~~~~~~~~~~~~
-
-- Backend: Python, FastAPI, modular ingestion microservices.  
-- Frontend: Streamlit/React demo for interactive querying and provenance inspection.  
-- Orchestration: Docker Compose for local developer setup; optional Kubernetes manifests for scaled deployments.  
-
-Results (example metrics)
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Note: where explicit running metrics are not available, the figures below are representative example metrics derived from internal testbeds and should be replaced with measured values if you choose to run the system and record results.
-
-- Ingestion throughput: ~50 pages/minute (OCR + normalization) on a 4‑core consumer laptop.  
-- Retrieval latency: median 45 ms for top-10 retrieval from a 10k-document index (Chroma + FAISS approximate search).  
-- End-to-end query latency: median 1.2s (local LLM small-medium configuration) including retrieval and generation.  
-- Accuracy (QA benchmark, example): 81% exact-match on an internal 200-question set after prompt engineering and reranking.  
-- Privacy: 100% local inference — no external LLM APIs required for the offline mode.
-
-Qualitative outcomes
-~~~~~~~~~~~~~~~~~~~~
-
-- Users reported confident usage for internal document search tasks and preferred local-first flows for sensitive data.  
-- The modular design enabled swapping vector stores and embedding models with minimal code change.  
-
-Lessons learned
-~~~~~~~~~~~~~~~
-
-- OCR quality is the dominant factor for scanned document intelligence; investing in layout-aware OCR and post-correction significantly improves downstream QA.  
-- Retrieval reranking is cost-effective: a simple lexical reranker often yields larger accuracy gains than marginally larger LLMs for the generation stage.  
-- Deterministic pipelines matter: seed control and pinned dependencies drastically reduce evaluation variance during A/B experiments.  
-- User experience: exposing provenance (source snippets and page links) builds user trust in the answers produced by the RAG system.
-
-Artifacts & Reproducibility
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- Repo: https://github.com/yuva-1237/BotZone  
-- Local demo: see the BotZone README for a Docker Compose quickstart.  
-- Reproducibility checklist: pinned dependency file (requirements.txt), docker-compose.yml, experiment-config.yaml, and a seeded evaluation script.
+<p align="center">
+  <img alt="BotZone demo" src="https://raw.githubusercontent.com/yuva-1237/yuva-1237/main/.github/assets/botzone-demo.gif" width="720" />
+  <br/>
+  <em>BotZone — local multimodal RAG (replace with production GIF)</em>
+</p>
 
 ---
 
-Visual Demos & GIF placeholders
--------------------------------
+UI / UX Improvements — recommendations & quick fixes
+----------------------------------------------------
 
-Below are markdown-ready placeholders for screenshots/GIFs. Replace the placeholder URLs with actual image/GIF links (host on GitHub releases, raw.githubusercontent, or an image CDN).
+I reviewed the projects and README design and recommend the following prioritized improvements you can apply quickly. I include exact, copy-paste snippets or design guidance where helpful.
 
-BotZone — demo GIF (placeholder)
+1) README / Project-level UX (low effort, high impact)
+- Add a clear hero with a one-line value proposition (done).  
+- Add a Table of Contents and expandable sections for long content (done).  
+- Add centered GIFs/screenshots for visual proof (place assets in `.github/assets/`) — examples above.
+- Add badges for quick signals: build status, license, top language, followers (placeholders added).
 
-![BotZone Demo GIF](https://raw.githubusercontent.com/yuva-1237/yuva-1237/main/.github/assets/botzone-demo.gif "BotZone demo — replace with real GIF")
+2) Web UI / Frontend UX improvements (BotZone, IA Zone, Exam Forge)
+- Onboarding flow: display a "How it works" 3-step overlay for first-time users.  
+- Provenance panel: always show source snippets + page link for every generated answer.  
+- Error states: show graceful fallbacks and provide actionable next steps (retry, fallback to keyword search).  
+- Accessibility: ensure color contrast, keyboard navigation, and ARIA attributes for interactive components.
 
-IA Zone — live demo screenshot (placeholder)
+Quick snippet — Provenance panel component (React + Tailwind)
 
-![IA Zone Screenshot](https://raw.githubusercontent.com/yuva-1237/yuva-1237/main/.github/assets/iazone-screenshot.png "IA Zone screenshot — replace with real image")
+```jsx
+// ProvenancePanel.jsx (simplified)
+export function ProvenancePanel({sources}){
+  return (
+    <aside className="p-4 bg-neutral-900 rounded-md text-sm">
+      <h4 className="font-semibold">Sources</h4>
+      <ul className="mt-2 space-y-2">
+        {sources.map(s => (
+          <li key={s.id} className="flex items-start">
+            <a href={s.url} className="text-blue-300 underline mr-2">{s.title}</a>
+            <p className="text-gray-300 text-xs">"{s.snippet}"</p>
+          </li>
+        ))}
+      </ul>
+    </aside>
+  )
+}
+```
 
-Project Hail Mary — architecture diagram (placeholder)
+3) Design system & consistency (medium effort)
+- Create a small design token file (colors, spacing, type scale) and a central CSS/Tailwind config.  
+- Apply consistent card components for results, provenance, and error states.
 
-![Project Hail Mary Diagram](https://raw.githubusercontent.com/yuva-1237/yuva-1237/main/.github/assets/hailmary-architecture.png "Architecture diagram — replace with real image")
+Design token example (tailwind.config.js snippet)
 
-How to add real images
-~~~~~~~~~~~~~~~~~~~~~~~
+```js
+module.exports = {
+  theme: {
+    extend: {
+      colors: {
+        primary: '#00D8FF',
+        accent: '#7C3AED',
+        bg: '#0D1117'
+      }
+    }
+  }
+}
+```
 
-1. Create an `.github/assets/` directory in the repository (or use `docs/` or `assets/`).  
-2. Add your GIFs/screenshots to that folder and push them to the repo.  
-3. Replace the placeholder URLs above with the raw file URLs, for example:  
-   https://raw.githubusercontent.com/yuva-1237/yuva-1237/main/.github/assets/botzone-demo.gif
+4) UX metrics & instrumentation (important for product decisions)
+- Add lightweight analytics: event counts for searches, average query latency, user clicks on sources.  
+- Track qualitative feedback: thumbs up/down per answer + optional comment box.
+
+5) Rapid A/B idea (fast experiment)
+- Test two response layouts: (A) single answer + provenance list vs (B) short answer + expandable deep-dive. Measure time-to-click and satisfaction.
 
 ---
 
-Publications & Citations
-------------------------
-
-This section contains BibTeX entries for technical essays, project briefs, and reproducible artifacts. If you have formal publications (conference papers, arXiv, etc.), add them here; otherwise these templates can be used for project whitepapers.
-
-BibTeX (select entries)
+Publications & Citations (BibTeX + human)
 
 ```bibtex
 @techreport{botzone2026,
@@ -203,8 +251,7 @@ BibTeX (select entries)
   author = {Yuvathilagan, Y.},
   institution = {yuva-1237 / Personal Research},
   year = {2026},
-  url = {https://github.com/yuva-1237/BotZone},
-  note = {Technical report and reproducible artifact}
+  url = {https://github.com/yuva-1237/BotZone}
 }
 
 @techreport{hailmary2026,
@@ -212,54 +259,30 @@ BibTeX (select entries)
   author = {Yuvathilagan, Y.},
   institution = {yuva-1237 / Personal Research},
   year = {2026},
-  url = {https://github.com/yuva-1237/Project_hail_mary},
-  note = {Simulations, architecture, and evaluation scripts}
-}
-
-@techreport{ars2025,
-  title = {ARS: An Explainable Resume Screening Pipeline},
-  author = {Yuvathilagan, Y.},
-  institution = {yuva-1237 / Personal Research},
-  year = {2025},
-  url = {https://github.com/yuva-1237/ARS},
-  note = {Project whitepaper and evaluation}
+  url = {https://github.com/yuva-1237/Project_hail_mary}
 }
 ```
 
-Human-readable citations
+Human-readable
 
 - Y. Yuvathilagan. BotZone: A Private, Local-First Multimodal Retrieval-Augmented Workspace. 2026. https://github.com/yuva-1237/BotZone
 - Y. Yuvathilagan. Project Hail Mary: Multi-Agent Decision Intelligence under Communication Latency. 2026. https://github.com/yuva-1237/Project_hail_mary
-- Y. Yuvathilagan. ARS: An Explainable Resume Screening Pipeline. 2025. https://github.com/yuva-1237/ARS
-
----
-
-Suggested next actions
-----------------------
-
-- Replace the GIF/screenshot placeholders with real media from each project.  
-- Run the BotZone benchmark suite and update the example metrics with measured values; add a `results/` folder with reproducible logs.  
-- Add a short technical brief (2–3 pages) for each project in PDF and link it from the Publications section.  
 
 ---
 
 Contact
 -------
 
-- Email: [yuvathilagan@gmail.com](mailto:yuvathilagan@gmail.com)  
-- Portfolio: https://yuvathilagan-portfolio.vercel.app/  
-- LinkedIn: https://www.linkedin.com/in/yuvathilagan-%E2%80%8C-806681308/  
-- GitHub: https://github.com/yuva-1237
+<p align="center">
+  <a href="mailto:yuvathilagan@gmail.com" style="margin-right:12px">📧 Email</a>
+  <a href="https://www.linkedin.com/in/yuvathilagan-%E2%80%8C-806681308/" style="margin-right:12px">🔗 LinkedIn</a>
+  <a href="https://yuvathilagan-portfolio.vercel.app/">🌐 Portfolio</a>
+</p>
 
 ---
 
 Acknowledgements
 ----------------
 
-Work and inspiration are the product of collaborators, mentors, and the open-source community. I acknowledge those who contribute ideas, code, and critique.
-
-<div align="center">
-
 Prepared with scholarly rigor and an engineer's pragmatism — Yuvathilagan.
 
-</div>
