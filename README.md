@@ -4,7 +4,7 @@
 
 # ✦ Yuva Thilagan
 ### AI Engineer · Software Engineer · Design Engineer
-### DK-Style: Intelligence × Systems | Building in Public
+
 
 <br/>
 
