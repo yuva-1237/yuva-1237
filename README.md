@@ -1,20 +1,52 @@
-<div align="center">
+﻿<div align="center">
+
+<!-- ═══════════════════════════════════════════════════════════
+     PHASE 1 — ANIMATED SVG BANNER (theme-aware)
+     Upload dark.svg and light.svg to the root of this repo first
+     ═══════════════════════════════════════════════════════════ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/yuva-1237/yuva-1237/main/dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/yuva-1237/yuva-1237/main/light.svg">
+  <img alt="Yuva Thilagan" src="https://raw.githubusercontent.com/yuva-1237/yuva-1237/main/light.svg" width="100%">
+</picture>
+
+<br/>
 
 # YUVA THILAGAN
 
-### AI Engineer | Software Engineer | Design Engineer
+### AI Engineer · Software Engineer · Design Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=00D8FF&center=true&vCenter=true&width=920&lines=AI+Systems+%7C+Software+Products+%7C+Data+Solutions;Generative+AI+%7C+Machine+Learning+%7C+NLP+%7C+Automation;Full+Stack+Engineering+%7C+Analytics+%7C+Design+Systems" alt="Technical typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=920&lines=AI+Systems+%7C+Software+Products+%7C+Data+Solutions;Generative+AI+%7C+Machine+Learning+%7C+NLP+%7C+Automation;Full+Stack+Engineering+%7C+Analytics+%7C+Design+Systems" alt="Typing banner" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=yuva-1237&label=Profile%20Views&color=00d8ff&style=flat-square)
-![Open Source](https://img.shields.io/badge/Open%20Source-Builder-0d1117?style=flat-square&logo=github&logoColor=white)
-![AI Engineering](https://img.shields.io/badge/AI%20Engineering-Focused-00d8ff?style=flat-square)
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-Product%20Mindset-7c3aed?style=flat-square)
+<br/>
 
-[Live Portfolio](https://yuvathilagan-portfolio.vercel.app/) |
-[Email](mailto:yuvathilagan@gmail.com) |
-[LinkedIn](https://www.linkedin.com/in/yuvathilagan-%E2%80%8C-806681308/) |
-[GitHub](https://github.com/yuva-1237)
+![Profile Views](https://komarev.com/ghpvc/?username=yuva-1237&label=Profile%20Views&color=22d3ee&style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20Source-Builder-0A101F?style=flat-square&logo=github&logoColor=white)
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-Focused-22D3EE?style=flat-square)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-Product%20Mindset-A78BFA?style=flat-square)
+
+<!-- ═══════════════════════════════════════════════════════════
+     PHASE 4 — SOCIAL BADGES
+     ═══════════════════════════════════════════════════════════ -->
+
+<a href="https://www.linkedin.com/in/yuvathilagan-%E2%80%8C-806681308/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/_y_u_v_a_10_/">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:yuvathilagan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://yuvathilagan-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
+</a>
 
 </div>
 
@@ -62,7 +94,7 @@ Scalable Architecture  Automation Systems     Product Engineering
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00D8FF)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=22D3EE)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=F89820)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
@@ -71,9 +103,9 @@ Scalable Architecture  Automation Systems     Product Engineering
 ### Generative AI & Large Language Models
 
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=00D8FF)
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=22D3EE)
 ![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-111827?style=for-the-badge&logo=googledrive&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge&logo=semanticweb&logoColor=00D8FF)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge&logo=semanticweb&logoColor=22D3EE)
 ![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-111827?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-111827?style=for-the-badge&logo=huggingface&logoColor=FEE12B)
@@ -85,7 +117,7 @@ Scalable Architecture  Automation Systems     Product Engineering
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![NLP](https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=openai&logoColor=00D8FF)
+![NLP](https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=openai&logoColor=22D3EE)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 ![YOLO](https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=googlecommon&logoColor=white)
@@ -108,7 +140,7 @@ Scalable Architecture  Automation Systems     Product Engineering
 
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-0f172a?style=for-the-badge&logo=pinecone&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-0f172a?style=for-the-badge&logo=googlekeep&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0f172a?style=for-the-badge&logo=facebook&logoColor=00D8FF)
+![FAISS](https://img.shields.io/badge/FAISS-0f172a?style=for-the-badge&logo=facebook&logoColor=22D3EE)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0f172a?style=for-the-badge&logo=pinecone&logoColor=EC4899)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
@@ -129,7 +161,7 @@ Scalable Architecture  Automation Systems     Product Engineering
 
 ### Cloud, DevOps & MLOps
 
-![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=232F3E)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
 ![GCP](https://img.shields.io/badge/GCP-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
@@ -148,8 +180,7 @@ Scalable Architecture  Automation Systems     Product Engineering
 ### Design & Prototyping
 
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-0d1117?style=for-the-badge&logo=materialdesign&logoColor=00D8FF)
-
+![UI/UX](https://img.shields.io/badge/UI%2FUX-0d1117?style=for-the-badge&logo=materialdesign&logoColor=22D3EE)
 
 ---
 
@@ -165,7 +196,7 @@ Scalable Architecture  Automation Systems     Product Engineering
 
 ## Engineering Case Studies
 
-### Project Hail Mary - Autonomous Multi-Agent AI Decision Intelligence
+### Project Hail Mary — Autonomous Multi-Agent AI Decision Intelligence
 
 | Dimension         | Details                                                                                                                  |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -176,7 +207,7 @@ Scalable Architecture  Automation Systems     Product Engineering
 | Impact            | Demonstrated zero-latency local diagnostic capability and highly explainable safety resolutions.                         |
 | GitHub Repository | [yuva-1237/Project_hail_mary](https://github.com/yuva-1237/Project_hail_mary)                                             |
 
-### BotZone - Local & Private Multimodal RAG Platform
+### BotZone — Local & Private Multimodal RAG Platform
 
 | Dimension         | Details                                                                                                                  |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -187,7 +218,7 @@ Scalable Architecture  Automation Systems     Product Engineering
 | Impact            | Delivered a 100% private, local-first alternative for complete document intelligence.                                     |
 | GitHub Repository | [yuva-1237/BotZone](https://github.com/yuva-1237/BotZone)                                                                 |
 
-### ARS - Intelligent Resume Screener & ATS Copilot
+### ARS — Intelligent Resume Screener & ATS Copilot
 
 | Dimension         | Details                                                                                                                  |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -198,7 +229,7 @@ Scalable Architecture  Automation Systems     Product Engineering
 | Impact            | Streamlined candidate vetting with explainable suitability scoring and immediate profile querying.                       |
 | GitHub Repository | [yuva-1237/ARS](https://github.com/yuva-1237/ARS)                                                                         |
 
-### IA Zone - Advanced AI Gateway & Assistant Hub
+### IA Zone — Advanced AI Gateway & Assistant Hub
 
 | Dimension         | Details                                                                                                                  |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -209,7 +240,7 @@ Scalable Architecture  Automation Systems     Product Engineering
 | Impact            | Created an elegant, high-performance gateway for user-facing AI assistant workflows.                                     |
 | Links             | [Source Code](https://github.com/yuva-1237/ia-zone) \| [Live Demo](https://ia-zone.vercel.app/)                          |
 
-### Exam Forge - Online Examination Platform
+### Exam Forge — Online Examination Platform
 
 | Dimension         | Details                                                                                                        |
 | ----------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -279,44 +310,58 @@ MLOps                     -> experiment tracking, model lifecycle, production AI
 
 ## GitHub Metrics
 
+<!-- ═══════════════════════════════════════════════════════════
+     PHASE 2 — STATS CARDS (self-hosted)
+     Replace YOUR-INSTANCE with your Vercel deployment URL
+     after completing Phase 2 of the deployment guide.
+     e.g. https://github-readme-stats-yuva.vercel.app
+     ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yuva-1237&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=7C3AED&text_color=E5E7EB" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuva-1237&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=E5E7EB" alt="Top languages" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=yuva-1237&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
 
-<img src="https://streak-stats.demolab.com?user=yuva-1237&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D8FF&fire=7C3AED&currStreakLabel=00D8FF" alt="GitHub streak stats" />
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuva-1237&theme=github-compact&hide_border=true&bg_color=0D1117&color=E5E7EB&line=00D8FF&point=7C3AED" alt="GitHub contribution activity graph" />
+<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=yuva-1237&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=yuva-1237&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuva-1237&theme=github-compact&hide_border=true&bg_color=0A101F&color=94A3B8&line=22D3EE&point=A78BFA" alt="GitHub contribution activity graph" />
 
 </div>
 
-### Coding Activity
-
-| Activity Area     | Signal                                                                     |
-| ----------------- | -------------------------------------------------------------------------- |
-| AI Systems        | Chatbot workflows, NLP pipelines, prompt engineering, sentiment analysis   |
-| Software Products | React applications, portfolio systems, online examination workflows        |
-| Data Solutions    | Power BI dashboards, Excel analysis, insight reporting, data visualization |
-| Automation        | Playwright scraping, browser automation, repeatable extraction workflows   |
-
-### Engineering Metrics
-
-| Metric                      | Signal                                                                                 |
-| --------------------------- | -------------------------------------------------------------------------------------- |
-| Primary Engineering Domains | AI Engineering, Software Engineering, Data Analytics, Automation                       |
-| Product Surface             | AI apps, dashboards, full stack web systems, automated data workflows                  |
-| Repository Focus            | Portfolio, applied projects, technical documentation, project iteration                |
-| Collaboration Readiness     | Open to engineering collaboration, internships, AI product work, and software projects |
-
 ### Repository Statistics
 
-![GitHub Followers](https://img.shields.io/github/followers/yuva-1237?label=Followers&style=for-the-badge&color=00d8ff)
-![GitHub Stars](https://img.shields.io/github/stars/yuva-1237?label=Stars&style=for-the-badge&color=7c3aed)
+![GitHub Followers](https://img.shields.io/github/followers/yuva-1237?label=Followers&style=for-the-badge&color=22d3ee)
+![GitHub Stars](https://img.shields.io/github/stars/yuva-1237?label=Stars&style=for-the-badge&color=a78bfa)
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=yuva-1237&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub profile trophies" />
 
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════
+     PHASE 3 — CONTRIBUTION SNAKE
+     Only add this section AFTER the GitHub Action runs green
+     and the output branch exists. Until then, leave commented.
+     ═══════════════════════════════════════════════════════════ -->
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/yuva-1237/yuva-1237/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/yuva-1237/yuva-1237/output/github-snake.svg" />
+    <img alt="Snake eating my contributions"
+         src="https://raw.githubusercontent.com/yuva-1237/yuva-1237/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -327,6 +372,7 @@ MLOps                     -> experiment tracking, model lifecycle, production AI
 | --------- | ----------------------------------------------------------------------------- |
 | Email     | [yuvathilagan@gmail.com](mailto:yuvathilagan@gmail.com)                       |
 | LinkedIn  | [Yuvathilagan](https://www.linkedin.com/in/yuvathilagan-%E2%80%8C-806681308/) |
+| Portfolio | [yuvathilagan-portfolio.vercel.app](https://yuvathilagan-portfolio.vercel.app/) |
 | GitHub    | [@yuva-1237](https://github.com/yuva-1237)                                    |
 | Instagram | [@_y_u_v_a_10_](https://www.instagram.com/_y_u_v_a_10_/)                      |
 | Pinterest | [@ythilagan](https://in.pinterest.com/ythilagan/)                             |
@@ -337,8 +383,8 @@ MLOps                     -> experiment tracking, model lifecycle, production AI
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvathilagan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvathilagan-%E2%80%8C-806681308/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuva-1237)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D8FF?style=for-the-badge&logo=githubpages&logoColor=0D1117)](https://yuvathilagan.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://yuvathilagan-portfolio.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F)](https://www.instagram.com/_y_u_v_a_10_/)
 
 </div>
 
@@ -354,6 +400,6 @@ profile.focus     = AI systems, software products, data solutions, scalable engi
 
 <div align="center">
 
-Built with React, TypeScript, and Vite.
+Built with React, TypeScript, and Vite. &nbsp;·&nbsp; Chennai, India
 
 </div>
