@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-# ✦ Yuva Thilagan
+# YUVATHILAGAN
 ### AI Engineer · Software Engineer · Design Engineer
 
 
