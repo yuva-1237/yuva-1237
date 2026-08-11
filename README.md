@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=22&duration=2600&pause=700&color=FF073A&center=true&vCenter=true&width=860&lines=AI+Systems+%7C+Software+Products+%7C+Data+Solutions;Generative+AI+%7C+Machine+Learning+%7C+NLP;Full+Stack+Engineering+%7C+Automation+%7C+Design" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=700&size=22&duration=2600&pause=700&color=FF073A&center=true&vCenter=true&width=860&lines=AI+Systems+%7C+Software+Products+%7C+Data+Solutions;Generative+AI+%7C+Machine+Learning+%7C+NLP;Full+Stack+Engineering+%7C+Automation+%7C+Design" alt="Typing" />
 
 </div>
 
