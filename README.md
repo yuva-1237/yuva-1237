@@ -3,7 +3,7 @@
 <div id="header" align="center">
 
 # YUVATHILAGAN
-### AI Engineer · Software Engineer · Design Engineer
+### AI & Data Engineer | Machine Learning | Intelligent Systems
 
 
 <br/>
